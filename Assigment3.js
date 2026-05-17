@@ -95,4 +95,3 @@ function mostCommonNumber(arr) {
     return mostCommonElem;
 }
 
-
